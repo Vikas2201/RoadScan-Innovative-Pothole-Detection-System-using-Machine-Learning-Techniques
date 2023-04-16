@@ -206,6 +206,8 @@ To fix a bug or enhance an existing module, follow these steps:
 
  * [@Vikas](https://github.com/Vikas2201)
  * [@Aakash Katiyar](https://github.com/XDXD1100189XD)
+ * [@Aditya](https://github.com/Aditya-Gahlot)
+ * [@Abhijeet Singh](https://github.com/abhijeetSingh131)
 
 # Help Me Improve
 --------------------------
