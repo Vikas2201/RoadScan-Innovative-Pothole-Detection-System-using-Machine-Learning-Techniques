@@ -86,8 +86,132 @@ These libraries provide a range of functionalities and tools that are essential 
  
  ![WhatsApp Image 2023-04-16 at 14 11 10](https://user-images.githubusercontent.com/76476273/232290581-dcd62d26-a07b-405e-b433-93da626d1eb8.jpg)
 
-# 
+# RoadScan Innovative Pothole Detection System using Machine Learning Techniques Video
+-------------------------------------------------------------------------------------------------------
 
 
+# Run Locally
+ ------------------------------------------------------
 
+* Clone the project
+```bash
+  git clone https://github.com/Vikas2201/Backorder-prediction-1
+```
+* Go to the project directory
+```bash
+  cd RoadScan-Innovative-Pothole-Detection-System-using-Machine-Learning-Techniques
+ ```
+* Install dependencies
+```bash
+  pip install -r requirements.txt
+```
+* Setting up the constants.py file
+```bash
+    Update the values inside the constants.py
+```
+* Run the app.py
+```bash
+  python app.py
+```
+
+# Usage
+------------------------------------
+
+In Development If You Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+* Fork the repo
+
+* Create a new branch
+```bash
+   git checkout -b new-feature
+```
+* Make the appropriate changes in the file
+
+* Commit your changes
+```bash
+     git commit -am "New feature added"
+```
+* Push to the branch
+```bash
+      git push origin new-feature
+```
+* Create a pull request
+
+# Directory Tree
+-----------------------------------------------------------------------------------------------
+
+```bash
+└── RoadScan-Innovative-Pothole-Detection-System-using-Machine-Learning-Techniques
+    ├── database
+    |   ├── __pycache__
+    |   ├── db.py
+    |   ├── user_database.db
+    │   └── user_database.sqbpro
+    ├── frozen_graphs
+    |   ├── checkpoint
+    |   ├── frozen_inference_graph.pb
+    |   ├── model.ckpt.data-00000-of-00001
+    |   ├── model.ckpt.index
+    |   ├── model.ckpt.meta
+    |   ├── pothole_Jabelmap.pbtxt
+    │   └── pipeline.config
+    ├── Dataset
+    |   ├── detected
+    │   └── original
+    ├── protos
+    │   ├── __pycache__
+    |   ├── string_int_label_map_pb2.py 
+    │   └── string_int_label_map.proto
+    ├── static 
+    │   ├── css
+    |   |    └── style.css
+    │   ├── after.png
+    |   ├── after1.jpg
+    |   ├── before.png
+    |   └── before1.jpg
+    ├── Templates
+    │   ├── about.html
+    |   ├── admdash.html
+    |   ├── admin.html
+    |   ├── detected_pothole.html
+    |   ├── detected_pothole2.html
+    |   ├── home.html
+    |   ├── index.html
+    |   ├── location.html
+    |   ├── map.html
+    |   ├── profile.html
+    |   ├── register.html
+    |   ├── show.html
+    |   ├── upload.html
+    |   ├── user_register.html
+    |   ├── view_previous.html
+    |   ├── webcam.html
+    │   └── webcam 2.html
+    ├── utils
+    │   ├── __pycache__
+    │   ├── detect.py
+    │   ├── detector_util.py
+    │   ├── encode_decode.py
+    |   ├── save_image.py
+    │   └── label_map_util.py
+    ├── app.py
+    ├── constants.py
+    └── requierements.txt
+  ```
+ 
+# Teams Members Name
+---------------------------
+
+ * [@Vikas](https://github.com/Vikas2201)
+ * [@Aakash Katiyar](https://github.com/XDXD1100189XD)
+
+# Help Me Improve
+--------------------------
+
+Hello Reader if you find any bug please consider raising issue I will address them asap.
+
+# Documentation
+------------------------------------------------
 
