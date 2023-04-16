@@ -95,7 +95,7 @@ These libraries provide a range of functionalities and tools that are essential 
 
 * Clone the project
 ```bash
-  git clone https://github.com/Vikas2201/Backorder-prediction-1
+  git clone https://github.com/Vikas2201/RoadScan-Innovative-Pothole-Detection-System-using-Machine-Learning-Techniques
 ```
 * Go to the project directory
 ```bash
