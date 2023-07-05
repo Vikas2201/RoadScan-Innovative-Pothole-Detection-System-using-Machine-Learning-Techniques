@@ -218,3 +218,5 @@ Hello Reader if you find any bug please consider raising issue I will address th
 # Documentation
 ------------------------------------------------
 
+[Thesis Report.pdf](https://github.com/Vikas2201/RoadScan-Innovative-Pothole-Detection-System-using-Machine-Learning-Techniques/files/11960060/Thesis.Report.pdf)
+
